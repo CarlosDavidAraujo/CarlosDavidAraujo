@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o @CarlosDavidAraujo!
+# 👋 Olá!
 
 Atualmente concentro meus esforços nas seguintes tecnologias:
 
