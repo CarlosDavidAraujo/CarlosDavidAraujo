@@ -11,10 +11,6 @@ Atualmente concentro meus esforços nas seguintes tecnologias:
 
 Atualmente, estou aprimorando minhas habilidades em Godot.
 
-## 💬 Vamos colaborar?
-
-Estou sempre interessado em projetos empolgantes e colaborações. Se você está trabalhando em algo interessante ou procura ajuda nessas tecnologias, adoraria contribuir!
-
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-david-araujo-ventura-8a58771a2/)
