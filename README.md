@@ -7,10 +7,6 @@ Atualmente concentro meus esforços nas seguintes tecnologias:
 - 🛠️ **Prisma:** Trabalhando com bancos de dados de forma eficiente e type-safe.
 - 🎨 **Tailwind CSS:** Criando interfaces elegantes e responsivas de maneira rápida.
 
-## 🌱 O que estou aprendendo
-
-Atualmente, estou aprimorando minhas habilidades em Godot.
-
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-david-araujo-ventura-8a58771a2/)
